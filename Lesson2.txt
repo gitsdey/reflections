@@ -1,0 +1,15 @@
+Git Lesson 2
+
+There are 3 directories to remember
+- Working Directory
+- Staging Area
+- Repository
+
+i) Initially all files are in the Working Directory
+ii) We add files or make changes hen it gors to Staging Area
+iii) Committing moves files from Staging Area to Repository
+
+git init
+git add
+git status
+git log
